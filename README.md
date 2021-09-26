@@ -1,7 +1,11 @@
-### Hi there 👋
+<p align="center"> 
+  Visits count<br>
+  <img src="https://profile-counter.glitch.me/yangzj1992/count.svg" />
+</p>
 
+- Hi, I'm yangzj1992 👋 
+- I’m currently working on [@Meituan-Dianping](https://github.com/Meituan-Dianping) in Beijing。
 <!--
-**yangzj1992/yangzj1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
