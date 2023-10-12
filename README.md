@@ -4,7 +4,7 @@
 </p>
 
 - Hi, I'm yangzj1992 👋 
-- I’m currently working on [@Meituan-Dianping](https://github.com/Meituan-Dianping) in Beijing。
+- I’m currently working at [@Meituan-Dianping](https://github.com/Meituan-Dianping) in Beijing。
 <!--
 
 Here are some ideas to get you started:
